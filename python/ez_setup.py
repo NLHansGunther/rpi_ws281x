@@ -36,8 +36,8 @@ try:
 except ImportError:
     USER_SITE = None
 
-DEFAULT_VERSION = "5.7"
-DEFAULT_URL = "https://files.pythonhosted.org/packages/08/1b/cfcdd4381459c3967a08dd3b7c16b7f10a5bfb8ad5c40b56f8ee4a25e8d7/"
+DEFAULT_VERSION = "40.4.3"
+DEFAULT_URL = "https://files.pythonhosted.org/packages/6e/9c/6a003320b00ef237f94aa74e4ad66c57a7618f6c79d67527136e2544b728/"
 
 def _python_cmd(*args):
     """
