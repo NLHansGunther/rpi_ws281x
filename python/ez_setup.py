@@ -37,7 +37,7 @@ except ImportError:
     USER_SITE = None
 
 DEFAULT_VERSION = "5.7"
-DEFAULT_URL = "https://pypi.python.org/packages/source/s/setuptools/"
+DEFAULT_URL = "https://files.pythonhosted.org/packages/28/29/2a99aaa46f9e7ca267433123a134132a06cbf8691b77b6e8d5b4d9915b72/setuptools-5.7-py2.py3-none-any.whl"
 
 def _python_cmd(*args):
     """
